@@ -83,3 +83,5 @@ nuget.config
 #Assets/Photon/Quantum/Assemblies/PhotonDeterministic.*
 #Assets/Photon/Quantum/Assemblies/quantum.core.*
 #Assets/Photon/Quantum/Assemblies/quantum.code.*
+
+.fake
